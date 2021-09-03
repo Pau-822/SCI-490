@@ -1,0 +1,58 @@
+div{
+	margin-left:45%;  /*position on the page*/
+}
+
+/*size of cubes and space between them*/
+span{
+	height: 100px;
+	width: 100px;
+	margin: 2px;
+}
+
+/*Cubes and their color*/
+.r1c1{
+	background-color: blue;
+	float: left;
+}
+
+.r1c2{
+	background-color: black;
+	float: left;
+}
+
+.r1c3{
+	background-color: lawngreen;
+	float: left;
+}
+
+.r2c1{
+	background-color:red;
+	clear: both;
+	float: left;
+}
+
+.r2c2{
+	background-color: green;
+	float: left;
+}
+
+.r2c3{
+	background-color:purple;
+	float: left;
+}
+
+.r3c1{
+	background-color:yellow;
+	clear: both;
+	float: left;
+}
+
+.r3c2{
+	background-color: orange;
+	float: left;
+}
+
+.r3c3{
+	background-color:fuchsia;
+	float: left;
+}
